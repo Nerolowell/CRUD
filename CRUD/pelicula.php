@@ -38,4 +38,5 @@
 			$this->id = $id;
 		}
 	}
+/*esto si jala perro
 ?>
