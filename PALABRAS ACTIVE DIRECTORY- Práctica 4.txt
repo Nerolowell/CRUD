@@ -1,0 +1,14 @@
+SCRIPT
+ACTIVE DIRECTORY
+Bloc de notas
+Grupo (De usuarios)
+horas
+cliente
+click
+Dominio
+POWERBROKER
+GITHUB
+LIBGLADE
+OpenSSH
+Estática (IP)
+Rango (IP)
