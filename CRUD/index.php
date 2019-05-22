@@ -17,7 +17,7 @@
             <br>
             <br>
             <br>
-				<td><a href="mostrar.php">Ver</a></td>
+				<td><a href="mostrar.php">Ver películas</a></td>
             <br>
             <br>
             <br>
