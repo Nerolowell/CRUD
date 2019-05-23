@@ -11,7 +11,7 @@
             <br>
             <br>
             <br>
-				<td><a href="ingresar.php">Ingresar</a></td>
+				<td><a href="ingresar.php">Ingresar pel[icula</a></td>
 			</tr>
 			<tr>
             <br>
