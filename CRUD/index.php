@@ -11,11 +11,7 @@
             <br>
             <br>
             <br>
-<<<<<<< HEAD
-				<td><a href="ingresar.php">Ingresar </a></td>
-=======
-				<td><a href="ingresar.php">Ingresar</a></td>
->>>>>>> 549d955cc01337c3dfc17dae130c8b614444d660
+				<td><a href="ingresar.php">Ingresarrrrrrrrr </a></td>
 			</tr>
 			<tr>
             <br>
