@@ -11,13 +11,13 @@
             <br>
             <br>
             <br>
-				<td><a href="ingresar.php">Ingresar pel[icula</a></td>
+				<td><a href="ingresar.php">Ingresar</a></td>
 			</tr>
 			<tr>
             <br>
             <br>
             <br>
-				<td><a href="mostrar.php">Ver </a></td>
+				<td><a href="mostrar.php">Ver</a></td>
             <br>
             <br>
             <br>
